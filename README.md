@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning pytorch and nlp
 - 👯 I’m looking to collaborate on research projects in fields like nlp and computer vision.
 - 🤔 I’m looking for help with research oriented projects
-- ![Visitor Count](https://profile-counter.glitch.me/{govindrathore27}/count.svg)
+- ![](https://komarev.com/ghpvc/?username=govindrathore27&color=blue)
 
 <!--
 **govindrathore27/govindrathore27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
